@@ -10,17 +10,16 @@ Here are the pictures of the parts that we use:
 <center>
 This is the Transmitter Feather. As of for now, it is equipped with light sensors and temperature-humidity-pressure sensors. These sensors will pick up information around the surrounding.</center>
 
-
+![ff](https://cloud.githubusercontent.com/assets/21114221/23250360/e24c0048-f94c-11e6-8d1a-456643099a68.png)
 <center>The Transmitter Feather is equipped with Lithium battery and solar panel. The Solar Panel powers the feather and charge the battery during daytime, so that when night time comes, or during cloudy/rainy day, the feather can be powered by the battery.</center>
 
-![]({{site.baseurl}}//Receiver%20Board%20Feather.png)
-
+![receiver board feather](https://cloud.githubusercontent.com/assets/21114221/23250383/03df136c-f94d-11e6-88e7-c5c3d4cba7fe.png)
 <center>This is the Receiver Feather. It will receive all the environmental data that the transmitters pick up in the surrounding.</center>
 
-![]({{site.baseurl}}//Distance%20The%20Sensors%20Can%20Communicate%20with%20Obstacles.PNG)
+![distance the sensors can communicate with obstacles](https://cloud.githubusercontent.com/assets/21114221/23250399/173aa03e-f94d-11e6-905b-b898bb67138f.PNG)
 <center>The two feathers can communicate with each other at the maximum of 226m if there are obstacles in the surrounding. This location is in Kapiolani Community College. </center>
 
-![]({{site.baseurl}}//Distance%20The%20Sensors%20Can%20Communicate%20without%20Obstacles.PNG)
+![distance the sensors can communicate without obstacles](https://cloud.githubusercontent.com/assets/21114221/23250413/24c5cc7e-f94d-11e6-8e0b-45dd668b4d00.PNG)
 <center>The two feathers can communicate with each other at the maximum of 1.09km (or 0.6 miles) when there are no obstacles around. This location is in Kahala beach park. </center>
 
 We now have a well-functioned prototype to demonstrate how the device works. If we get a chance to continue this project, we will develop a more user-friendly interface for the customers to read the information about their farms that the sensors pick up. Given enough resources and adequate skills, we would love to develop an artificial intelligent algorithms that can self-govern the whole farm, such as automatically provide extra water to the soil on very sunny day, release adequate fertilizers when the soil needs, identify early stages of harmful disease displayed in plants and warn the farmers.
