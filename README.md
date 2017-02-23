@@ -6,7 +6,7 @@ Providing the information that farmers wants to know to better protect and prosp
 
 Here are the pictures of the parts that we use:
 
-![alt text](https://drive.google.com/a/hawaii.edu/file/d/0BzCW1WV06ZViQTZlVmpUYTZieVE/view?usp=sharing
+![aa](https://cloud.githubusercontent.com/assets/21114221/23250210/29c6e754-f94c-11e6-8521-023e7ab9a56c.png)
 "This is the Transmitter Feather. As of for now, it is equipped with light sensors and temperature-humidity-pressure sensors. These sensors will pick up information around the surrounding.") 
 
 ![]({{site.baseurl}}//ff.png)
