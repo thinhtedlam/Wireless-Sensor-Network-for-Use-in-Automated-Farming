@@ -6,8 +6,8 @@ Providing the information that farmers wants to know to better protect and prosp
 
 Here are the pictures of the parts that we use:
 
-![]({{site.baseurl}}//aa.png)
-<center>This is the Transmitter Feather. As of for now, it is equipped with light sensors and temperature-humidity-pressure sensors. These sensors will pick up information around the surrounding.</center> 
+![alt text](https://drive.google.com/a/hawaii.edu/file/d/0BzCW1WV06ZViQTZlVmpUYTZieVE/view?usp=sharing
+"This is the Transmitter Feather. As of for now, it is equipped with light sensors and temperature-humidity-pressure sensors. These sensors will pick up information around the surrounding.") 
 
 ![]({{site.baseurl}}//ff.png)
 <center>The Transmitter Feather is equipped with Lithium battery and solar panel. The Solar Panel powers the feather and charge the battery during daytime, so that when night time comes, or during cloudy/rainy day, the feather can be powered by the battery.</center>
